@@ -1,0 +1,845 @@
+body
+{
+    background-color: rgb(222,254,254);
+	text-align: center;
+	
+}
+mark 
+{
+    background-color: pink;
+    color: black;
+}
+cite
+{
+    font-size: 110%;
+	text-align: left;	
+}
+hr.thick
+{
+    border: 1px solid #000;	/*horizontal rule thickness*/		
+}
+/*-------------INTRODUCTION PAGE---------------------------------------------------------------------------*/
+h1.introhead
+{
+	font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;	
+	color: #0FB493;
+	font-size: 800%;	
+	text-shadow: 3px 3px 3px #fff;
+}
+body.introbody
+{
+	text-align: center;
+	background-image: url("./images/gemcave.png");	
+}
+video.video
+{ 
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
+
+a.aintro
+{
+	color:#009999;	
+}
+p.references
+{
+    font-size: 95%;
+	text-align: center;	
+	color:#0FB493;
+	font-weight:900;
+	
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------LIST PAGE---------------------------------------------------------------------------*/
+h1.listHeading
+{
+    font-size: 300%;
+    font-family: "Verdana", Verdana, serif;	
+    color: #045;	
+}
+h2.listHeading2
+{
+	text-align:center;
+    font-size: 300%;
+    font-family: "Verdana", Verdana, serif;	
+    color: #045;	
+}
+body.listbody
+{
+	height: 100%;
+	width: 100%;	
+	text-align: center;
+    background-image: url("./images/bluebackground.png");
+
+}
+#smalldescription
+{
+	text-align:center;
+    font-size: 160%;
+    font-family: "Verdana", Verdana, serif;	
+    color: #045;	
+}
+th.subheadinglist
+{
+    background-color: #4169E1;
+    color: white;
+    font-size: 90%;	
+}
+td.tdjune
+{
+	width: 50%;	
+}
+td.td
+{
+    font-size: 150%;
+	width: 33%;	
+    padding: 10px;	
+}
+td.listtableborder
+{
+	border: 1px solid black;
+    font-size: 120%;	
+}
+table.listtable
+{
+    margin-left:auto; 
+    margin-right:auto; 	
+	text-align: center;		
+    padding: 10px;	
+}
+table.content
+{
+	width:90%;
+}
+table.centerlist 
+{ 
+	text-align: center;	
+    margin-left:auto; 
+    margin-right:auto;	
+}
+table.decembertable
+{  
+	text-align: center;	
+}
+table.buttontable
+{
+	text-align: center;
+    margin-left:auto; 
+    margin-right:auto; 		
+}
+pre.boldWords
+{
+    font-weight: bold;	
+	text-align:center;
+    font-size: 300%;
+    font-family: "Verdana", Verdana, serif;	
+    color: #045;
+}
+p.plist
+{		
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 100%;
+    color: #045;	
+    font-weight: 700;	
+	
+}
+p.plist2
+{
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60%;
+    color: #045;
+    font-weight: 700;	
+}
+p.plist3
+{
+	margin-left:20%;	
+	margin-right:20%;	
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 60%;
+    color: #045;
+    font-weight: 700;	
+}
+p.july
+{
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 120%;
+    color: #045;
+    font-weight: 700;	
+}
+p.september
+{
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 120%;
+    color: #045;
+    font-weight: 700;	
+}
+hr.june
+{
+	width: 30%;
+	text-align:left;
+    border: 2px solid #000;	/*horizontal rule thickness*/	
+}
+hr.july
+{
+	width: 15%;
+	text-align:left;
+    border: 2px solid #000;	/*horizontal rule thickness*/	
+}
+hr.december
+{
+	width: 50%;
+	text-align:left;
+    border: 2px solid #000;	/*horizontal rule thickness*/		
+}
+hr.november
+{
+	width: 40%;
+	text-align:left;
+    border: 2px solid #000;	/*horizontal rule thickness*/		
+}
+hr.everthingelse
+{
+	width: 30%; 
+	text-align:left;
+    border: 2px solid #000;	/*horizontal rule thickness*/
+}
+#list_content td
+{
+	vertical-align: top;
+	text-align: center;
+	padding: 30px;
+	
+}
+.centertext
+{
+	margin-left:auto;	
+    width: 500px;	
+}
+#bimages1
+{
+    background-image: url(./images/1.2.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages2
+{
+    background-image: url(./images/LIGHT-RED-BACKGROUND.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages3
+{
+    background-image: url(./images/3wIB6d.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages4
+{
+    background-image: url(./images/ice_texture3003.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages5
+{
+    background-image: url(./images/5861313a762f8ba11c2650e882ba90b9.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages6
+{
+    background-image: url(./images/light-green-wallpaper-16.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages7
+{
+    background-image: url(./images/blue.jpg);	
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages8
+{
+    background-image: url(./images/yellow_red_spots_background_abstract_65559_1920x1080.jpg);	
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages9
+{
+    background-image: url(./images/Blue-background-2560x1600wallpapers-pictures-free-download.jpg);	
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages10
+{
+    /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
+    background-image: url(./images/backgrounds-wallpaper-7.jpg);	
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+#bimages11
+{
+    /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
+    background-image: url(./images/1fLSnJV.jpg);	
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    width: 100%;
+    height: auto;	
+}
+img.january
+{
+	width:228px;
+	height:240px;							
+}
+img.february
+{
+	width:228px;
+	height:240px;
+}
+img.march
+{
+	width:228px;
+	height:240px;
+}
+img.april
+{
+	width:228px;
+	height:240px;
+}
+img.may
+{
+	width:200px;
+	height:150px;
+}
+img.june1
+{
+	width:228px;
+	height:240px;
+}
+img.june2
+{
+	width:228px;
+	height:240px;
+}
+img.july
+{
+	width:228px;
+	height:240px;
+}
+img.august
+{
+	width:228px;
+	height:240px;
+}
+img.september
+{
+	width:190px;
+	height:240px;
+}
+img.october
+{
+	width:250px;
+	height:260px;
+}
+img.november1
+{
+	width:228px;
+	height:240px;
+}
+img.november2
+{
+	width:228px;
+	height:240px;
+}
+img.december1
+{
+	width:128px;
+	height:100px;
+}
+img.december2
+{
+	width:128px;
+	height:100px;
+}
+img.december3
+{
+	width:128px;
+	height:100px;
+}
+
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------DIFFERENCE PAGE---------------------------------------------------------------------------*/
+body.dbody
+{
+	height: 100%;
+	width: 100%;	
+	text-align: center;
+    background-image: url("./images/5.jpg");	
+
+}
+p.pdifference
+{
+	
+    font-size: 100%;	
+	text-align: left;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    color: blue;
+	margin-left:20%; 
+	margin-right:30%; 	
+	
+	text-shadow: 0 1px 0 #ccc,
+	0 2px 0 #c9c9c9,
+	0 3px 0 #bbb,
+	0 4px 0 #b9b9b9,
+	0 5px 0 #aaa,
+	0 6px 1px rgba(0,0,0,.1),
+	0 0 5px rgba(0,0,0,.1),
+	0 1px 3px rgba(0,0,0,.3),
+	0 3px 5px rgba(0,0,0,.2),
+	0 5px 10px rgba(0,0,0,.25),
+	0 10px 10px rgba(0,0,0,.2),
+	0 20px 20px rgba(0,0,0,.15);
+	
+}
+h1.h1difference
+{
+	text-align: center;
+    font-size: 230%;
+
+	text-shadow: 0 1px 0 #ccc,
+	0 2px 0 #c9c9c9,
+	0 3px 0 #bbb,
+	0 4px 0 #b9b9b9,
+	0 5px 0 #aaa,
+	0 6px 1px rgba(0,0,0,.1),
+	0 0 5px rgba(0,0,0,.1),
+	0 1px 3px rgba(0,0,0,.3),
+	0 3px 5px rgba(0,0,0,.2),
+	0 5px 10px rgba(0,0,0,.25),
+	0 10px 10px rgba(0,0,0,.2),
+	0 20px 20px rgba(0,0,0,.15);	
+}
+h2.h2difference
+{
+	text-align: left;
+    font-size: 200%;
+	margin-left:20%; 
+
+	text-shadow: 0 1px 0 #ccc,
+	0 2px 0 #c9c9c9,
+	0 3px 0 #bbb,
+	0 4px 0 #b9b9b9,
+	0 5px 0 #aaa,
+	0 6px 1px rgba(0,0,0,.1),
+	0 0 5px rgba(0,0,0,.1),
+	0 1px 3px rgba(0,0,0,.3),
+	0 3px 5px rgba(0,0,0,.2),
+	0 5px 10px rgba(0,0,0,.25),
+	0 10px 10px rgba(0,0,0,.2),
+	0 20px 20px rgba(0,0,0,.15);	
+}
+h3.h3difference
+{
+	text-align: left;
+    font-size: 100%;
+	margin-left:20%; 	
+}
+table.img
+{
+	margin-left:20%; 
+	margin-right:auto; 	
+	text-align:left;
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------STORY PAGE---------------------------------------------------------------------------*/
+p.ph
+{
+	
+    font-size: 100%;	
+	text-align: center;	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #045;	
+}
+h1.h1h
+{
+	text-align: center;
+    font-size: 400%;	
+	font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;	
+}
+h2.h2h
+{
+	text-align: left;
+    font-size: 300%;	
+}
+h3.h3h
+{
+	text-align: left;
+    font-size: 200%;	
+}
+a.astory
+{
+    font-size: 80%;	
+}
+body.storybody
+{
+	height: 100%;
+	width: 100%;   
+	background-image: url("./images/2.jpg");	
+}
+
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------GALLERY PAGE---------------------------------------------------------------------------*/
+h1.h1g
+{
+	font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;		
+    font-size: 300%;	
+}
+body.gallery
+{
+    background-color: rgb(222,254,254);	
+	text-align: center;	
+}
+pre.preg
+{
+    font-size: 100%;
+	font-family: "Comic Sans MS", cursive, sans-serif;	
+}
+table.gallerytable
+{
+	margin-left:auto;
+	margin-right:auto; 	
+	text-align:center;
+	width:30%	
+}
+td.caption
+{
+    font-size: 70%;
+	font-family: "Comic Sans MS", cursive, sans-serif;	
+}
+img
+{
+	width:250px;
+	height:200px;
+	
+}
+.longimage
+{
+	width:150px;
+	height:200px;
+	
+}
+.long2
+{
+	width:150px;
+	height:150px;
+	
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------REFERENCE PAGE---------------------------------------------------------------------------*/
+body.referencepage
+{
+	text-align: left;
+    background-image: url("./images/11.jpg");
+	color: blue;
+		
+}
+h1.refhead
+{
+	text-align: center;	
+    font-size: 230%;		
+}
+/*a.am
+{
+    font-size: 105%;	
+}*/
+#ref a
+{
+    font-size: 110%;
+	color: blue;
+	font-weight: 200;
+	text-align:center	
+}
+#ref td
+{
+    font-size: 100%;
+	color: #33a;
+	font-weight: 900;
+	text-align:left	
+}
+table.ref
+{
+	width:80%;
+}
+
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------Story PAGE---------------------------------------------------------------------------*/
+ol.s
+{
+    list-style-type: none;	/*prevent bullets from showing*/
+	margin:0;	
+    padding: 0;
+    overflow: hidden;		/*make menu bar visable*/
+    background-color: black;
+}
+li.s 
+{
+    float: left;	/*words start from the left of the menu bar*/
+}
+li.s a 
+{
+    font-family: "Verdana", Verdana, serif;		
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;	/*no text decorations (ex. underline)*/
+    font-size: 70%;	
+}
+li.s a:hover 
+{
+    background-color: #FF8C00; /*colour change when mouse is hovered over the block*/
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------GALLERY PAGE---------------------------------------------------------------------------*/
+ol.g
+{
+    list-style-type: none;	/*prevent bullets from showing*/
+	margin:0;	
+    padding: 0;
+    overflow: hidden;		/*make menu bar visable*/
+    background-color: black;
+}
+li.g 
+{
+    float: left;	/*words start from the left of the menu bar*/
+}
+li.g a 
+{
+    font-family: "Verdana", Verdana, serif;		
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;	/*no text decorations (ex. underline)*/
+    font-size: 70%;	
+}
+li.g a:hover 
+{
+    background-color: #FF69B4; /*colour change when mouse is hovered over the block*/
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------MENU BAR TITLE PAGE---------------------------------------------------------------------------*/
+ol.tp
+{
+    list-style-type: none;	/*prevent bullets from showing*/
+	margin:0;	
+    padding: 0;
+    overflow: hidden;		/*make menu bar visable*/
+    /*background-color: #1D2F3E;*/
+	background-color: rgba(29, 47, 62,0.5);
+	/*background-image: url(./images/star1.gif);*/	
+}
+li.tp
+{
+    float: left;	/*words start from the left of the menu bar*/
+}
+li.tp a 
+{
+    font-family: "Verdana", Verdana, serif;		
+    display: block;
+    color: #C9E1C1;
+    padding: 14px 16px;
+    text-decoration: none;	/*no text decorations (ex. underline)*/
+    font-size: 70%;	
+}
+li.tp a:hover 
+{
+    background-color: #0FB493; /*colour change when mouse is hovered over the block*/
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------MENU BAR REFERENCE PAGES---------------------------------------------------------------------------*/
+ol.r
+{
+    list-style-type: none;	/*prevent bullets from showing*/
+	margin:0;	
+    padding: 0;
+    overflow: hidden;		/*make menu bar visable*/
+    background-color: black;
+}
+li.r
+{
+    float: left;	/*words start from the left of the menu bar*/
+}
+li.r a 
+{
+    font-family: "Verdana", Verdana, serif;		
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;	/*no text decorations (ex. underline)*/
+    font-size: 70%;	
+}
+li.r a:hover 
+{
+    background-color: #111; /*colour change when mouse is hovered over the block*/
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*-------------MENU BAR OTHER PAGES---------------------------------------------------------------------------*/
+ol
+{
+    list-style-type: none;	/*prevent bullets from showing*/
+	margin:0;	
+    padding: 0;
+    overflow: hidden;		/*make menu bar visable*/
+    background-color: black;
+}
+li
+{
+    float: left;	/*words start from the left of the menu bar*/
+}
+li a 
+{
+    font-family: "Verdana", Verdana, serif;		
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;	/*no text decorations (ex. underline)*/
+    font-size: 70%;	
+}
+li a:hover 
+{
+    background-color: #1E90FF; /*colour change when mouse is hovered over the block*/
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*------------START EXPLORING BUTTON----------------------------------------------------------------------------*/
+#submittitlepage 
+{
+    /*background-color: #1D2F3E;*/
+	/*background-color: rgba(29, 47, 62, 0.8);*/
+	background-image: url(./images/blue1.gif);
+    border-radius:6px;
+    color: #C9E1C1;
+    font-family: 'Oswald';
+    font-size: 30px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+	font-weight:bold;
+}
+#submittitlepage:hover 
+{
+    border: none;
+	background:	#0FB493;
+	/*background:rgba(201, 225, 193);*/
+    box-shadow: 1px 2px 1px #777;
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*------------BUTTONS----------------------------------------------------------------------------*/
+#submit 
+{
+    background-color: #033;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+#submit:hover 
+{
+    border: none;
+    background:	#1E90FF;
+    box-shadow: 1px 2px 1px #777;
+}
+#submit1 
+{
+    background-color: #033;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+#submit1:hover 
+{
+    border: none;
+    background:	#1E90FF;
+    box-shadow: 1px 2px 1px #777;
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*------------STORY NEXT PAGE BUTTON----------------------------------------------------------------------------*/
+#submitstory 
+{
+    background-color: #033;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+#submitstory:hover 
+{
+    border: none;
+    background:	#FF8C00;
+    box-shadow: 1px 2px 1px #777;
+}
+/*---------------------------------------------------------------------------------------------------*/
+/*------------GALLERY NEXT PAGE BUTTON----------------------------------------------------------------------------*/
+#submitgallery 
+{
+    background-color: #033;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+#submitgallery:hover 
+{
+    border: none;
+    background:	#FF69B4;
+    box-shadow: 1px 2px 1px #777;
+}
+/*---------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
