@@ -76,7 +76,7 @@ body.listbody
 	height: 100%;
 	width: 100%;	
 	text-align: center;
-    background-image: url("./images/bluebackground.png");
+    background-image: url(bluebackground.png);
 
 }
 #smalldescription
@@ -229,7 +229,7 @@ hr.everthingelse
 }
 #bimages1
 {
-    background-image: url(./images/1.2.jpg);
+    background-image: url(1.2.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -237,7 +237,7 @@ hr.everthingelse
 }
 #bimages2
 {
-    background-image: url(./images/LIGHT-RED-BACKGROUND.jpg);
+    background-image: url(LIGHT-RED-BACKGROUND.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -245,7 +245,7 @@ hr.everthingelse
 }
 #bimages3
 {
-    background-image: url(./images/3wIB6d.jpg);
+    background-image: url(3wIB6d.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -253,7 +253,7 @@ hr.everthingelse
 }
 #bimages4
 {
-    background-image: url(./images/ice_texture3003.jpg);
+    background-image: url(ice_texture3003.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -261,7 +261,7 @@ hr.everthingelse
 }
 #bimages5
 {
-    background-image: url(./images/5861313a762f8ba11c2650e882ba90b9.jpg);
+    background-image: url(5861313a762f8ba11c2650e882ba90b9.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -269,7 +269,7 @@ hr.everthingelse
 }
 #bimages6
 {
-    background-image: url(./images/light-green-wallpaper-16.jpg);
+    background-image: url(light-green-wallpaper-16.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -277,7 +277,7 @@ hr.everthingelse
 }
 #bimages7
 {
-    background-image: url(./images/blue.jpg);	
+    background-image: url(blue.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -285,7 +285,7 @@ hr.everthingelse
 }
 #bimages8
 {
-    background-image: url(./images/yellow_red_spots_background_abstract_65559_1920x1080.jpg);	
+    background-image: url(yellow_red_spots_background_abstract_65559_1920x1080.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -293,7 +293,7 @@ hr.everthingelse
 }
 #bimages9
 {
-    background-image: url(./images/Blue-background-2560x1600wallpapers-pictures-free-download.jpg);	
+    background-image: url(Blue-background-2560x1600wallpapers-pictures-free-download.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -301,8 +301,8 @@ hr.everthingelse
 }
 #bimages10
 {
-    /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
-    background-image: url(./images/backgrounds-wallpaper-7.jpg);	
+    /*background-image: url(abstract-light-wallpaper-8.jpg);*/
+    background-image: url(backgrounds-wallpaper-7.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -311,7 +311,7 @@ hr.everthingelse
 #bimages11
 {
     /*background-image: url(./images/abstract-light-wallpaper-8.jpg);*/
-    background-image: url(./images/1fLSnJV.jpg);	
+    background-image: url(1fLSnJV.jpg);	
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     width: 100%;
@@ -405,7 +405,7 @@ body.dbody
 	height: 100%;
 	width: 100%;	
 	text-align: center;
-    background-image: url("./images/5.jpg");	
+    background-image: url(5.jpg);	
 
 }
 p.pdifference
@@ -515,7 +515,7 @@ body.storybody
 {
 	height: 100%;
 	width: 100%;   
-	background-image: url("./images/2.jpg");	
+	background-image: url(2.jpg);	
 }
 
 /*---------------------------------------------------------------------------------------------------*/
@@ -570,7 +570,7 @@ img
 body.referencepage
 {
 	text-align: left;
-    background-image: url("./images/11.jpg");
+    background-image: url(11.jpg);
 	color: blue;
 		
 }
@@ -745,7 +745,7 @@ li a:hover
 {
     /*background-color: #1D2F3E;*/
 	/*background-color: rgba(29, 47, 62, 0.8);*/
-	background-image: url(./images/blue1.gif);
+    background-image: url(blue1.gif);
     border-radius:6px;
     color: #C9E1C1;
     font-family: 'Oswald';
